@@ -2,6 +2,7 @@
 Meetup R - Sevilla - 8 Enero 2019
 
 # Depuración geométrica-topológica de datos geográficos
+![Presentación Depuración geométrica-topológica](/figures/portada_presentacion.JPG)
 [Enlace presentación](https://github.com/amezet/SevillaR_08Ene19/blob/master/SevillaR_DepuRGeo.pdf)
 
 # Vídeo Youtube canal Sevilla R Users
